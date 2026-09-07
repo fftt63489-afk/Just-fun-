@@ -1,0 +1,16 @@
+{
+  "status": "online",
+  "message": "🔥 High-Speed 50K+ Visitor Serverless API is Active (BD Server)",
+  "usage": {
+    "method": "POST",
+    "body_format": {
+      "target_uid": "123456789",
+      "count": 5000,
+      "tokens": [
+        "TOKEN_1",
+        "TOKEN_2",
+        "..."
+      ]
+    }
+  }
+}
